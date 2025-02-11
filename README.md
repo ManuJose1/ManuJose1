@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name is Manu and I'm a computing student in my final year of college.
+Im currently working on my final project, which is a racing game developed in unity
 
 <!--
 **ManuJose1/ManuJose1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
