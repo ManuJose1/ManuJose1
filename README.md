@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
-<h3 align="center">A passionate frontend developer and game developer from Ireland</h3>
-
-- 🔭 I’m currently working on **my final project for college**
-
-- 🌱 I’m currently learning **Creative Computing**
+<h3 align="center">A passionate web developer and game developer from Ireland</h3>
 
 - 👨‍💻 All of my projects are available at [https://manu-portfolio-fd228.web.app/](https://manu-portfolio-fd228.web.app/)
 
